@@ -1,0 +1,12 @@
+.card {
+    height: 15em;
+    width: 16.875em;
+    margin: 1em;
+    position: relative;
+    overflow: hidden;
+  }
+
+  #hover img:hover  {
+      margin-left: -30px;
+  
+  }
